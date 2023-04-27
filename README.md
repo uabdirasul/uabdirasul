@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abdirasul, an aspiring software developer from Karakalpakstan.
+I'm Abdirasul, an aspiring Frontend Developer from Karakalpakstan.
 
 ## About me
 
