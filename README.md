@@ -10,7 +10,7 @@ Right now, I'm focusing on learning React and building my first web applications
 
 ## My projects
 
-- [Movie App](https://github.com/uabdirasul/movieapp): I built it while I was learning about React Props.
+- [Replace](https://github.com/uabdirasul/replace): This web app created for solving modern letters problem in Karakalpak language.
 - [Crappo Landing Page](https://github.com/uabdirasul/Crappo): I tried to show my skills about creating landing pages with HTML and CSS.
 - ... soon some projects:)
 
