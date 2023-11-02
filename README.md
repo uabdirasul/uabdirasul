@@ -21,5 +21,5 @@ In the future, I hope to build more complex web applications and contribute to o
 
 ## Get in touch
 
-- Telegram: https://t.me/uabdirasul
+- Telegram: https://t.me/ubbiniyazov
 - Gmail: ubbiniyazov04@gmail.com
