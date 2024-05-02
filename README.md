@@ -1,23 +1,10 @@
 ### Hi there 👋
 
-I'm Abdirasul, an aspiring Frontend Developer from Karakalpakstan.
+I'm Abdirasul, a Frontend Developer from Karakalpakstan.
 
 ## About me
 
-I'm currently learning to code and working towards becoming a software developer. I'm passionate about technology and love the challenge of learning something new.
-
-Right now, I'm focusing on learning React and building my first web applications. I'm using resources like [FreeCodeCamp](https://www.freecodecamp.org/) and [React JS documentation](https://react.dev/) to learn.
-
-## My projects
-
-- [Replace](https://github.com/uabdirasul/replace): This web app created for solving modern letters problem in Karakalpak language.
-- [Crappo Landing Page](https://github.com/uabdirasul/Crappo): I tried to show my skills about creating landing pages with HTML and CSS.
-- [Transliterator](https://github.com/uabdirasul/transliterator): A simple app that converts text from one writing system to another. It can convert text written in the Cyrillic alphabet to the Latin alphabet or vice versa.
-- ... soon some projects:)
-
-## My goals
-
-In the future, I hope to build more complex web applications and contribute to open source projects. I'm excited to continue learning and growing as a software developer!
+I'm currently immersing myself in mathematics and algorithmic problem-solving, exploring various concepts and techniques to enhance my skills. Concurrently, I'm embarking on new projects and diving into the intricacies of Next.js to elevate my web development expertise.
 
 ## Get in touch
 
